@@ -14,7 +14,6 @@ main{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-
 }
 
 .container{
@@ -42,7 +41,7 @@ img{
 }
 
 .text{
-   color:  hsl(220, 15%, 55%);
+   color:hsl(220, 15%, 55%);
    font-size: 18px;
 }
 

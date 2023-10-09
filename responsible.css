@@ -1,0 +1,42 @@
+@media (max-width: 280px) {
+
+.container{
+    height: 450px;
+}
+
+.title p{
+    font-size: 18px;
+}  
+
+.text p{
+    font-size: 15px;
+}
+
+}
+
+@media (min-width: 912px) {
+    .container{
+        height: 700px;
+        width: 400px;
+    }
+
+    .title p{
+        font-size: 30px
+    }
+
+    .text p{
+        font-size: 23px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .container{
+        width: 400px;
+        height: 570px;
+        margin-bottom: 15px;
+    }
+
+    .text p{
+        font-size: 20px;
+    }
+}
