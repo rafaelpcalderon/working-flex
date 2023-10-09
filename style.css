@@ -18,8 +18,8 @@ main{
 
 .container{
     border-radius: 20px;
-    width: 350px;
-    height: 550px;
+    width: 400px;
+    height: 630px;
     background-color: #fff;
 }
 
@@ -36,12 +36,12 @@ img{
 }
 
 .title{
-   font-size: 24px;
+   font-size: 28px;
     font-weight: bold;
 }
 
 .text{
    color:hsl(220, 15%, 55%);
-   font-size: 18px;
+   font-size: 21px;
 }
 
